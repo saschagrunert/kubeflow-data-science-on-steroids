@@ -1,6 +1,6 @@
 # Kubeflow - Data Science on Steroids
 
-> Welcome to the blog post and corresponding task about Kubeflow. This is a
+> Welcome to the blog post and corresponding talk about Kubeflow. This is a
 > project of [mbu93](https://github.com/mbu93) and
 > [saschagrunert](https://github.com/saschagrunert). Feel free to open issues if
 > you have questions or want to provide feedback to us.
