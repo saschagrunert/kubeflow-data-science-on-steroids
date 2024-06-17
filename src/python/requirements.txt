@@ -8,7 +8,7 @@ fastai==1.0.57
 plotly==4.1.0
 recordclass==0.12.0.1
 seaborn==0.9.0
-scikit_learn==0.21.3
+scikit_learn==1.5.0
 torch==1.13.1
 torchbearer==0.4.0
 torchtest==0.5
